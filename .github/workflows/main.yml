@@ -7,7 +7,6 @@ on:
         description: 'VER'
         required: true
         default: 'VER'
-    
 
 jobs:
   build:
